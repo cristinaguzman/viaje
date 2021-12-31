@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+  color:#ffffff;
+}
+
+.navbar {
+  background-color: rgba(0,0,0, .1);
+  z-index: 1;
+}
+
+hr {
+    border-top:1px solid #787B7C;
+    padding-bottom: 10px;
+}
+
+.icono {
+  background-color: #0dcaf0;
+  text-align: center;
+}
+
+h2  {
+  font-size: 20px;
+  color:#ffffff;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+
+}
+
+.card2 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: 0.25rem;
+}
+
+.fondonegro {
+  background-color: #000000;
+  }
+
+.fondoceleste {
+  background-color: #0dcaf0;
+  }
+
+.btn-enviar {
+background-color: #0dcaf0;
+color:#FFFFFF;
+  }
+
+.viajeschile {
+  font-size:15px;
+}
